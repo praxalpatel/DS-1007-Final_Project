@@ -1,1 +1,5 @@
-This is readme file
+The project was implemented towards the completion of DS-GA 1007 Final Project requirements 
+
+The project focuses on analyzing the data for import and export of goods to gain insights abouthow a country’s import and export relations with foreign countries have evolved over the yearsand the direction where the country is heading to. We have used several visualization tools forextracting useful insights regarding the Indian Trade and to identify any inconsistencies with prior extracted insights and knowledge.
+
+India was a closed economy due to the high average tariffs and the extensive quantitative re-strictions on imports, before the economic liberalization and foreign investment allowed only Indian ownership of businesses which had a huge impact on the country’s economy.  But India’s economy has improved significantly since the liberalization because of the increased for-eign trade. Thus, analyzing the import and export of goods since then would help us gaininsights about the changing pattern of the country’s import and export relations with foreign countries over the years
